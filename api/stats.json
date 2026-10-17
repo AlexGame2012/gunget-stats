@@ -1,10 +1,10 @@
 {
   "bot_ms": 4,
-  "telegram_ms": 204,
+  "telegram_ms": 203,
   "pending": 0,
   "success_rate": 100,
-  "cpu_load": 6.2,
+  "cpu_load": 11.8,
   "ram_used": 54,
   "last_cmd": "1 мин назад",
-  "updated_at": 1792250462
+  "updated_at": 1792250521
 }
